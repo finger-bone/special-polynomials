@@ -6,9 +6,9 @@ import rehypeKatex from 'rehype-katex';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
-const repo = "notes-template"
+const repo = "special-polynomials"
 const ghName = "finger-bone"
-const title = "my site"
+const title = "special polynomials"
 
 const config: Config = {
   title: title,
