@@ -519,7 +519,7 @@ $$
 y_n = \frac{n!}{2\pi i} \oint_{C(x)} \frac{w \frac{\mathrm{d}t}{\mathrm{d}u}}{w(x)h} \frac{1}{u^{n+1}}  \mathrm{d} u
 $$
 
-根据生成函数的定理，生成函数就是，
+根据生成函数的定义，生成函数就是，
 
 $$
 G(x; u) = \frac{w \frac{\mathrm{d}t}{\mathrm{d}u}}{w(x)h}
